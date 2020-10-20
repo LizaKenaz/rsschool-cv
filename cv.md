@@ -1,4 +1,4 @@
-1. Lizaveta Ahafonava
+1. **Lizaveta Ahafonava**
 2. isaskyart@gmail.com
 3. Just try to learn JS
 4. Great self-learning student 
