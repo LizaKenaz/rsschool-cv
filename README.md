@@ -1,1 +1,1 @@
-https://github.com/LizaKenaz/rsschool-cv/blob/gh-pages/cv.md
+https://your-github-account.github.io/rsschool-cv/cv
